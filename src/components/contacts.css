@@ -1,0 +1,40 @@
+.contacts {
+  background: #f3f7f4;
+  padding-top: 144px;
+  padding-bottom: 150px;
+}
+
+.contacts__title {
+  font-family: "Times New Roman";
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 60px;
+  letter-spacing: 1px;
+  color: #283337;
+  margin: 0;
+  margin-bottom: 48px;
+}
+
+.contacts__inner {
+  text-align: center;
+}
+
+.contacts__desc {
+  font-weight: 400;
+  font-size: 33px;
+  line-height: 36px;
+  margin: 0;
+  margin-bottom: 48px;
+}
+
+.contacts__link {
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 21px;
+  color: #ffffff;
+  padding: 16px 51px;
+  background: #283337;
+  border-radius: 56px;
+}
